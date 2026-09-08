@@ -29,7 +29,7 @@ The author's use case is an M-series MacBook. No macOS-version or hardware compa
 ## Get the source
 
 ```sh
-git clone https://github.com/heinrichryodigital/restart-coreaudio.git
+git clone https://github.com/mrHeinrichh/restart-coreaudio.git
 cd restart-coreaudio
 ```
 
